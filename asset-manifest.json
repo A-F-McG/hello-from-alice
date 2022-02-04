@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hello-from-lexi/static/css/main.ddb13c7e.chunk.css",
+    "main.js": "/hello-from-lexi/static/js/main.d22e7b11.chunk.js",
+    "main.js.map": "/hello-from-lexi/static/js/main.d22e7b11.chunk.js.map",
+    "runtime-main.js": "/hello-from-lexi/static/js/runtime-main.3d26adcd.js",
+    "runtime-main.js.map": "/hello-from-lexi/static/js/runtime-main.3d26adcd.js.map",
+    "static/js/2.19fafa44.chunk.js": "/hello-from-lexi/static/js/2.19fafa44.chunk.js",
+    "static/js/2.19fafa44.chunk.js.map": "/hello-from-lexi/static/js/2.19fafa44.chunk.js.map",
+    "index.html": "/hello-from-lexi/index.html",
+    "static/css/main.ddb13c7e.chunk.css.map": "/hello-from-lexi/static/css/main.ddb13c7e.chunk.css.map",
+    "static/js/2.19fafa44.chunk.js.LICENSE.txt": "/hello-from-lexi/static/js/2.19fafa44.chunk.js.LICENSE.txt",
+    "static/media/downArrow.1400c78f.svg": "/hello-from-lexi/static/media/downArrow.1400c78f.svg",
+    "static/media/externalLinkIcon.fa10c79f.svg": "/hello-from-lexi/static/media/externalLinkIcon.fa10c79f.svg",
+    "static/media/reactDog.4fbd8501.svg": "/hello-from-lexi/static/media/reactDog.4fbd8501.svg",
+    "static/media/resume.f9c25677.pdf": "/hello-from-lexi/static/media/resume.f9c25677.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d26adcd.js",
+    "static/js/2.19fafa44.chunk.js",
+    "static/css/main.ddb13c7e.chunk.css",
+    "static/js/main.d22e7b11.chunk.js"
+  ]
+}
