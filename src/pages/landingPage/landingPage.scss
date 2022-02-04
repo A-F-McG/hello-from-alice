@@ -1,0 +1,66 @@
+.contact-details {
+  width: 100%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  padding: 20px;
+
+  .logo {
+    width: 40px;
+  }
+}
+
+.down-arrow {
+  width: 100px;
+  position: fixed;
+  left: calc(50vw - 50px);
+  transform: rotate(180deg);
+
+  animation-name: downAnimation;
+  animation-fill-mode: forwards;
+  animation-duration: 4s;
+
+  @media screen and (max-width: 768px) {
+    width: 50px;
+    left: calc(50vw - 25px);
+    animation-name: downAnimationMobile;
+    animation-duration: 2s;
+  }
+}
+
+@keyframes downAnimation {
+  0% {
+    bottom: 10vh;
+  }
+  25% {
+    bottom: 15vh;
+  }
+  50% {
+    bottom: 10vh;
+  }
+  75% {
+    bottom: 15vh;
+  }
+  100% {
+    bottom: 5vh;
+  }
+}
+
+@keyframes downAnimationMobile {
+  0% {
+    bottom: 1vh;
+  }
+  25% {
+    bottom: 5vh;
+  }
+  50% {
+    bottom: 1vh;
+  }
+  75% {
+    bottom: 5vh;
+  }
+  100% {
+    bottom: 1vh;
+  }
+}

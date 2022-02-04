@@ -1,0 +1,66 @@
+{
+  "homepage": "http://a-f-mcg.github.io/hello-from-lexi",
+  "name": "hello-from-lexi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-flow": "^7.16.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/enzyme-adapter-react-15": "^1.0.6",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.11",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-15": "^1.4.3",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-device-detect": "^2.1.2",
+    "react-dom": "^17.0.2",
+    "react-ga": "^3.3.0",
+    "react-scripts": "4.0.3",
+    "react-scroll-parallax": "^2.4.0",
+    "sass-loader": "^12.3.0",
+    "typescript": "^4.5.2",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.16.0",
+    "@types/enzyme": "^3.10.10",
+    "gh-pages": "^3.2.3",
+    "react-test-renderer": "^15.6.1"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(svg|scss|pdf)$": "<rootDir>/__mocks__/fileMock.ts"
+    }
+  }
+}
