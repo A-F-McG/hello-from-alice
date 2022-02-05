@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hello-from-lexi/static/css/main.ddb13c7e.chunk.css",
-    "main.js": "/hello-from-lexi/static/js/main.c0839f5d.chunk.js",
-    "main.js.map": "/hello-from-lexi/static/js/main.c0839f5d.chunk.js.map",
+    "main.js": "/hello-from-lexi/static/js/main.5f8ec648.chunk.js",
+    "main.js.map": "/hello-from-lexi/static/js/main.5f8ec648.chunk.js.map",
     "runtime-main.js": "/hello-from-lexi/static/js/runtime-main.3d26adcd.js",
     "runtime-main.js.map": "/hello-from-lexi/static/js/runtime-main.3d26adcd.js.map",
     "static/js/2.19fafa44.chunk.js": "/hello-from-lexi/static/js/2.19fafa44.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3d26adcd.js",
     "static/js/2.19fafa44.chunk.js",
     "static/css/main.ddb13c7e.chunk.css",
-    "static/js/main.c0839f5d.chunk.js"
+    "static/js/main.5f8ec648.chunk.js"
   ]
 }
