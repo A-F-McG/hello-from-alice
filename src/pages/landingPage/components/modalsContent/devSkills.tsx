@@ -34,7 +34,7 @@ export function MyContributionsModal() {
           integration tests. Not only do they catch bugs before deployment, but
           they also give a huge amount of confidence when refactoring, which
           means a team is more likely to clean up existing code when they spot
-          areas could be improved.
+          areas that could be improved.
         </span>
       </div>
     </>

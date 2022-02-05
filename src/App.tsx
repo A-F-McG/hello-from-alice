@@ -8,6 +8,7 @@ import ReactGA from "react-ga";
 function App() {
   ReactGA.initialize("UA-125305767-2", {
     gaOptions: { siteSpeedSampleRate: 100 },
+    testMode: true,
   });
   const appContext = useContext(AppContext);
 
