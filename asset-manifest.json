@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hello-from-alice/static/css/main.ddb13c7e.chunk.css",
-    "main.js": "/hello-from-alice/static/js/main.d5f10716.chunk.js",
-    "main.js.map": "/hello-from-alice/static/js/main.d5f10716.chunk.js.map",
+    "main.js": "/hello-from-alice/static/js/main.fd0272b1.chunk.js",
+    "main.js.map": "/hello-from-alice/static/js/main.fd0272b1.chunk.js.map",
     "runtime-main.js": "/hello-from-alice/static/js/runtime-main.5cd4e537.js",
     "runtime-main.js.map": "/hello-from-alice/static/js/runtime-main.5cd4e537.js.map",
     "static/js/2.bcd9a7ba.chunk.js": "/hello-from-alice/static/js/2.bcd9a7ba.chunk.js",
@@ -13,12 +13,12 @@
     "static/media/downArrow.1400c78f.svg": "/hello-from-alice/static/media/downArrow.1400c78f.svg",
     "static/media/externalLinkIcon.fa10c79f.svg": "/hello-from-alice/static/media/externalLinkIcon.fa10c79f.svg",
     "static/media/reactDog.4fbd8501.svg": "/hello-from-alice/static/media/reactDog.4fbd8501.svg",
-    "static/media/resume.4ac2bc22.pdf": "/hello-from-alice/static/media/resume.4ac2bc22.pdf"
+    "static/media/resume.2815c0c0.pdf": "/hello-from-alice/static/media/resume.2815c0c0.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.5cd4e537.js",
     "static/js/2.bcd9a7ba.chunk.js",
     "static/css/main.ddb13c7e.chunk.css",
-    "static/js/main.d5f10716.chunk.js"
+    "static/js/main.fd0272b1.chunk.js"
   ]
 }
