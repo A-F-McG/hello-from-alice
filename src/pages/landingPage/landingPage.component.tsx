@@ -36,8 +36,10 @@ export function LandingPage() {
       )}
 
       <div className={`contact-details ${getBackgroundClass(scrollY)}`}>
-        Alexia McGregor |&nbsp;
-        <a href="mailto:alexiafmcgregor@gmail.com">alexiafmcgregor@gmail.com</a>
+        Alice McGregor |&nbsp;
+        <a href="mailto:alicefrancesmcgregor@gmail.com">
+          alexiafmcgregor@gmail.com
+        </a>
       </div>
 
       <LandingPageSection
