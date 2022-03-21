@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hello-from-lexi/static/css/main.ddb13c7e.chunk.css",
-    "main.js": "/hello-from-lexi/static/js/main.c84550c3.chunk.js",
-    "main.js.map": "/hello-from-lexi/static/js/main.c84550c3.chunk.js.map",
-    "runtime-main.js": "/hello-from-lexi/static/js/runtime-main.3d26adcd.js",
-    "runtime-main.js.map": "/hello-from-lexi/static/js/runtime-main.3d26adcd.js.map",
-    "static/js/2.19fafa44.chunk.js": "/hello-from-lexi/static/js/2.19fafa44.chunk.js",
-    "static/js/2.19fafa44.chunk.js.map": "/hello-from-lexi/static/js/2.19fafa44.chunk.js.map",
-    "index.html": "/hello-from-lexi/index.html",
-    "static/css/main.ddb13c7e.chunk.css.map": "/hello-from-lexi/static/css/main.ddb13c7e.chunk.css.map",
-    "static/js/2.19fafa44.chunk.js.LICENSE.txt": "/hello-from-lexi/static/js/2.19fafa44.chunk.js.LICENSE.txt",
-    "static/media/downArrow.1400c78f.svg": "/hello-from-lexi/static/media/downArrow.1400c78f.svg",
-    "static/media/externalLinkIcon.fa10c79f.svg": "/hello-from-lexi/static/media/externalLinkIcon.fa10c79f.svg",
-    "static/media/reactDog.4fbd8501.svg": "/hello-from-lexi/static/media/reactDog.4fbd8501.svg",
-    "static/media/resume.f006c6eb.pdf": "/hello-from-lexi/static/media/resume.f006c6eb.pdf"
+    "main.css": "/hello-from-alice/static/css/main.ddb13c7e.chunk.css",
+    "main.js": "/hello-from-alice/static/js/main.66450608.chunk.js",
+    "main.js.map": "/hello-from-alice/static/js/main.66450608.chunk.js.map",
+    "runtime-main.js": "/hello-from-alice/static/js/runtime-main.5cd4e537.js",
+    "runtime-main.js.map": "/hello-from-alice/static/js/runtime-main.5cd4e537.js.map",
+    "static/js/2.bcd9a7ba.chunk.js": "/hello-from-alice/static/js/2.bcd9a7ba.chunk.js",
+    "static/js/2.bcd9a7ba.chunk.js.map": "/hello-from-alice/static/js/2.bcd9a7ba.chunk.js.map",
+    "index.html": "/hello-from-alice/index.html",
+    "static/css/main.ddb13c7e.chunk.css.map": "/hello-from-alice/static/css/main.ddb13c7e.chunk.css.map",
+    "static/js/2.bcd9a7ba.chunk.js.LICENSE.txt": "/hello-from-alice/static/js/2.bcd9a7ba.chunk.js.LICENSE.txt",
+    "static/media/downArrow.1400c78f.svg": "/hello-from-alice/static/media/downArrow.1400c78f.svg",
+    "static/media/externalLinkIcon.fa10c79f.svg": "/hello-from-alice/static/media/externalLinkIcon.fa10c79f.svg",
+    "static/media/reactDog.4fbd8501.svg": "/hello-from-alice/static/media/reactDog.4fbd8501.svg",
+    "static/media/resume.f006c6eb.pdf": "/hello-from-alice/static/media/resume.f006c6eb.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d26adcd.js",
-    "static/js/2.19fafa44.chunk.js",
+    "static/js/runtime-main.5cd4e537.js",
+    "static/js/2.bcd9a7ba.chunk.js",
     "static/css/main.ddb13c7e.chunk.css",
-    "static/js/main.c84550c3.chunk.js"
+    "static/js/main.66450608.chunk.js"
   ]
 }
