@@ -43,7 +43,7 @@ export function LandingPage() {
       <LandingPageSection
         parallexOffsetY={[300, -200]}
         parallexOffsetX={[0, 0]}
-        title="Hi, I'm Lexi."
+        title="Hi, I'm Alice."
         description="I've read up on your company and love the sound of what you do, so I'd like to introduce myself."
         button={{
           text: "Here's my CV",
