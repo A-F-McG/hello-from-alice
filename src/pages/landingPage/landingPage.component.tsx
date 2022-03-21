@@ -93,7 +93,7 @@ export function LandingPage() {
           text: "Want to see the source code?",
           onClick: () =>
             window.open(
-              "https://github.com/A-F-McG/hello-from-lexi/tree/master",
+              "https://github.com/A-F-McG/hello-from-alice/tree/master",
               "_blank"
             ),
           hasExternalLink: true,
