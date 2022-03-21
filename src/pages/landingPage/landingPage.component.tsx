@@ -104,7 +104,7 @@ export function LandingPage() {
         parallexOffsetY={[-200, 100]}
         parallexOffsetX={[0, 0]}
         title="Well, that's me!"
-        description="I would love to hear some more about you - feel free to contact me at my email alexiafmcgregor@gmail.com"
+        description="I would love to hear some more about you - feel free to contact me at my email alicefrancesmcgregor.com"
       />
     </div>
   );
