@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hello-from-alice/static/css/main.ddb13c7e.chunk.css",
-    "main.js": "/hello-from-alice/static/js/main.fd0272b1.chunk.js",
-    "main.js.map": "/hello-from-alice/static/js/main.fd0272b1.chunk.js.map",
+    "main.js": "/hello-from-alice/static/js/main.edc7e32e.chunk.js",
+    "main.js.map": "/hello-from-alice/static/js/main.edc7e32e.chunk.js.map",
     "runtime-main.js": "/hello-from-alice/static/js/runtime-main.5cd4e537.js",
     "runtime-main.js.map": "/hello-from-alice/static/js/runtime-main.5cd4e537.js.map",
     "static/js/2.bcd9a7ba.chunk.js": "/hello-from-alice/static/js/2.bcd9a7ba.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5cd4e537.js",
     "static/js/2.bcd9a7ba.chunk.js",
     "static/css/main.ddb13c7e.chunk.css",
-    "static/js/main.fd0272b1.chunk.js"
+    "static/js/main.edc7e32e.chunk.js"
   ]
 }
